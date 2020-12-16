@@ -36,7 +36,7 @@ public static void main(String[] args) {
 	p.phoDet(27);
 	p.phoDet("sanjay");
 	p.phoDet(20088311754L, "chennai");
-	p.phoDet("sanjay.gudapati27@gmail.com", 9494758827L);
+	p.phoDet("sanjay.gudapati27@gmail.com",17);
 
 }
 
